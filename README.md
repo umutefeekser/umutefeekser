@@ -42,8 +42,8 @@ Lisede iyi bir üniversite kazanmak için çabalıyor, aynı zamanda kendimi yaz
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umutefeekser&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutefeekser&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_KULLANICI_ADIN&theme=tokyonight)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GITHUB_KULLANICI_ADIN&theme=tokyonight)
 </p>
 
 ---
