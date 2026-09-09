@@ -43,8 +43,6 @@ Lisede iyi bir üniversite kazanmak için çabalıyor, aynı zamanda kendimi yaz
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umutefeekser&theme=tokyonight)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=umutefeekser&theme=tokyonight)
-
 
 ---
 
