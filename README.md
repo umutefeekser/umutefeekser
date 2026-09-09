@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 # 👋 Merhaba, ben Umut Efe!
 
-### 🎓 Lise Öğrencisi
-
 Lisede iyi bir üniversite kazanmak için çabalıyor, aynı zamanda kendimi yazılım alanında geliştirecek projeler yapmakla uğraşıyorum. 
 
 ### 🌟 Hakkımda
